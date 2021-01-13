@@ -1,0 +1,5 @@
+package monopoly;
+
+class CollinsProbabilities {
+
+}
